@@ -1,0 +1,9 @@
+timestamp,service,latency,status_code
+2025-04-30T10:00:00Z,auth-service,350,200
+2025-04-30T10:00:02Z,auth-service,640,500
+2025-04-30T10:00:04Z,search-service,180,200
+2025-04-30T10:00:06Z,billing-service,890,200
+
+
+
+
